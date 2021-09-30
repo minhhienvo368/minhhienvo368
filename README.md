@@ -47,7 +47,7 @@ I was born in Vietnam. I am currently living in Brussels. Before
 ## Favorite GIF
 ---
 
-![my_fav_gif](https://media.giphy.com/media/MZocLC5dJprPTcrm65/giphy.gif) 
+![my_fav_gif](https://tenor.com/view/new-year-new-me-leonardo-di-caprio-cheers-fireworks-gif-4953437) 
 
 # ***_Minh Hien Vo_*** <a name="fr"></a>
 ### Junior Web Developer Full-Stack
