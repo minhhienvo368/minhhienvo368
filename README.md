@@ -1,13 +1,9 @@
 ([EN](aboutme.md#en) / [FR](aboutme.md#fr))
 
-# ***_Minh Hien Vo_*** <a name="en"></a>
+#### Hi there, I am Minh-Hien. 👋
 #### A Junior Data Scientist based in Gent, Belgium.
 
----
-
-
 ##### NOW
-- ✨ Fine tuned a pretrained neural network using transfer learning to remove the background from images.
 - ✨ Co-created a project using deep learning techniques (CNN) to predict Yoga poses for a start up company in Antwerp
 - 💬   a project about Natural Language Processing (NLP) . 
 - ⚙️ Co-created a project about [customer churn prediction](https://predicting-churn.herokuapp.com/) to help predict if a customer is likely to churn.  
@@ -16,8 +12,7 @@
 
 ##### BIO
 
-- I'm currently following an intensive **Artificial Intelligence** training at **Becode.org**
-- I use daily: `python`, `sci-kit learn`, `flask`,`pandas`
+- I'm recently following an intensive **Artificial Intelligence** training at **Becode.org**
 - I'm mostly active within the **Python and Machine Learning Community**
 - Learning all about **Data Science, Machine learning, Deep Learning**
 - Ask me about **Data manipulation**, **Machine learning model creation**, **python**, **NLP**, **Model deployment**, **Web development**
@@ -45,11 +40,10 @@
 
 ## &#x1f4c8; GitHub Stats
 
-
-<a href="https://github.com/arlene14ko/arlene14ko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arlene14ko&show_icons=true&line_height=27&count_private=true" alt="Arlene's GitHub Stats" />
+<a href="https://github.com/minhhienvo368/minhhienvo368">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arlene14ko&show_icons=true&line_height=27&count_private=true" alt="Minh-Hien's GitHub Stats" />
 </a>
-<a href="https://github.com/arlene14ko/arlene14ko">
+<a href="https://github.com/minhhienvo368/minhhienvo368">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhhienvo368&hide=java,html,text&langs_count=3" />
 </a>
 
