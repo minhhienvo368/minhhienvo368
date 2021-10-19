@@ -41,7 +41,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/minhhienvo368/minhhienvo368">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arlene14ko&show_icons=true&line_height=27&count_private=true" alt="Minh-Hien's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhhienvo368&show_icons=true&line_height=27&count_private=true" alt="Minh-Hien's GitHub Stats" />
 </a>
 <a href="https://github.com/minhhienvo368/minhhienvo368">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhhienvo368&hide=java,html,text&langs_count=3" />
