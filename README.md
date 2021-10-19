@@ -67,9 +67,9 @@
 [2]: https://www.linkedin.com/in/minh-hien-vo/
 [3]: 
 
-# ** Ch ** <a name="fr"></a>
+# ** Chère mes amis ** <a name="fr"></a>
 ---
-Je suis né à An Giang, en Vietnam, dans les années 80. J'ai étudié l'informatique et fait de la programmation ma plus grande passion.  
+Je suis Minh-Hien Vo, je suis né à An Giang, en Vietnam, dans les années 80. J'ai étudié l'informatique et fait de la programmation ma plus grande passion.  
 
 
 
