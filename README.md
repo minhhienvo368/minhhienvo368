@@ -4,8 +4,7 @@
 #### Hi there, I am Minh-Hien. 👋 <a name="en"></a>
 #### A Junior Data Scientist based in Gent, Belgium.
 
-I have a background in information technology, information systems development (got bachelor and master diplomes) and education. Being working at a multidisciplinary university in Vietnam, I started my job as a ICT assistant, web developer at Academic Affairs Dept, then a technical assistant of the university scientific journal (@Scientific Support Unit), and a post-graduated program adminstrator (@Graduated School)... My experieces are mainly about managing the data of undergraduate and graduate student records, developing the university management systems...
-I had chances to complete my dream of styding abroad by obtaining two scholarships for my master and Ph.D in the Netherlands and Belgium.
+I have a background in information technology, information systems development (my bachelor and master) and education (my phd study). Being working at a multidisciplinary university in Vietnam, starting from a ICT support, web developer, technical assistant of a scientific journal,  post-graduated program adminstrator... I had chances to complete my dream of styding abroad by obtaining two scholarships for my master and Ph.D in the Netherlands and Belgium. 
  
 After finishing my Ph.D in 2020, I decided to start my journey on AI (Artifical Intelligence), began self-learning code (Python, R) and then I wanted to undertake a more in-depth and serious training. In May 2021, **Becode.org** offered me a opportunity to enter into the fascinating world of data sciences via their excellent full-time professional training. During the course, I practiced with several hand-ons projects in both #machine learning and #deep learning techniques. I've not only learnt from technical stuffs (e.g. committed errors of colleagues anf myself from personal and group projects), but also I practiced more on how to manage a successful project (MVP, Agile) and presented our product professionally to the clients. 
 
@@ -54,3 +53,5 @@ Reach me at: minh.hien.vo68@gmail.com, [my Linkedin](https://www.linkedin.com/in
 [1]: https://github.com/minhienvo368
 [2]: https://www.linkedin.com/in/minh-hien-vo/
 [3]: https://www.facebook.com/andy.bxl/
+
+
