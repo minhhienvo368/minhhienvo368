@@ -1,35 +1,21 @@
 ([EN](aboutme.md#en) / [FR](aboutme.md#fr))
 
+### About myself
 #### Hi there, I am Minh-Hien. 👋 <a name="en"></a>
 #### A Junior Data Scientist based in Gent, Belgium.
 
-##### NOW
-- ✨ Co-created a project using deep learning techniques (CNN) to predict Yoga poses for a start up company in Antwerp
-- 💬   a project about Natural Language Processing (NLP) . 
-- ⚙️ Co-created a project about [customer churn prediction](https://predicting-churn.herokuapp.com/) to help predict if a customer is likely to churn.  
-- ✨ Co-created a [machine learning model](https://codit-usecase.herokuapp.com/) to predict if an industrial machine will malfunction using sound. 
-- 🔭 Currently learning about unsupervised learning, data clustering, and model deployment.
+- I have a background in information technology, information systems development (my bachelor and master) and education (my phd study). Being working at a multidisciplinary university in Vietnam, starting from a ICT support, web developer, technical assistant of a scientific journal,  post-graduated program adminstrator... I had chances to complete my dream of styding abroad by obtaining two scholarships for my master and Ph.D in the Netherlands and Belgium. After finishing my Ph.D in 2020. I decided to start my journey on AI (Artifical Intelligence), began self-learning code (Python, R) and then I wanted to undertake a more in-depth and serious training. In May, 2021, **#Becode.org** offered me the opportunity to enter into the fascinating world of data sciences via their excellent full-time professional training. During the course, I practiced with the hand-ons projects in both #machine learning and #deep learning techniques.
 
-##### BIO
+- I am currently about to finish my intensive training. And I'm seriously looking for an internship to strengthen my professional skills before getting a full-time job in Data Sciences.
+- My favourite technologies to work with are: #python, #pandas, #matplotlib, #scikit-learn, #plotly, #tensorflow, #NLP.
+- Learning all about **Data Science, Machine learning**
+- You can ask me about **Data manipulation**, **Machine learning model creation**,**NLP**, **Model deployment**, **Web development**
+- Reach me at: [my Gmail](minh.hien.vo68@gmail.com), [my Linkedin](https://www.linkedin.com/in/minh-hien-vo/)
 
-- I'm recently following an intensive **Artificial Intelligence** training at **Becode.org**
-- I'm mostly active within the **Python and Machine Learning Community**
-- Learning all about **Data Science, Machine learning, Deep Learning**
-- Ask me about **Data manipulation**, **Machine learning model creation**, **python**, **NLP**, **Model deployment**, **Web development**
-- 📫 Reach me at: [minh.hien.vo68@gmail.com](minh.hien.vo68@gmail.com)
-- ⚡️ Fun fact: 
+### Projects:
 
-##### Deployed Machine Learning Projects
-- 🏢 Machine Learning Model to predict if a customer is likely to churn. https://predicting-churn.herokuapp.com/
-- 🎵 Machine Learning Model to predict if there is an anomaly in an industrial machine using a sound file. https://codit-usecase.herokuapp.com/
-- 🌍 Machine Learning Model to predict the salary based on the years of experience. https://predict-salary-101.herokuapp.com/
 
-##### Deployed Web Development Projects
-- 💬 Random Quote Generator. https://ap-randomquote.netlify.app/
-- 🍛 Food Recipe Website. https://deepfrying.netlify.app/
-- 🍜 Restaurant Website. https://pinoyplate.netlify.app/
-
-## 🔧 Technologies & Tools
+### Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Distribution-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=informational)
@@ -38,7 +24,7 @@
 ![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=keras&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=informational)
 
-## &#x1f4c8; GitHub Stats
+### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/minhhienvo368/minhhienvo368">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhhienvo368&show_icons=true&line_height=27&count_private=true" alt="Minh-Hien's GitHub Stats" />
@@ -48,7 +34,6 @@
 </a>
 
 <!-- links to social media icons -->
-
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
@@ -58,43 +43,9 @@
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/arlene14ko/arlene14ko/master/linkedin-3-16.png (LinkedIn icon without padding)
-
 
 <!-- links to your social media accounts -->
 
 [1]: https://github.com/minhienvo368
 [2]: https://www.linkedin.com/in/minh-hien-vo/
 [3]: 
-
-# ** Chère mes amis ** <a name="fr"></a>
----
-Je suis Minh-Hien Vo, je suis né à An Giang, en Vietnam, dans les années 80. J'ai étudié l'informatique et fait de la programmation ma plus grande passion.  
-
-
-
-## Skills
----
-
-
-## Les choses qui me rendent fou...
-
-## Mes objectifs
----
-
-## Mes peurs
----
-
-
-
-## Un regard vers l'avenir...
----
-
-
-## Travailler en bonne équipe.
----
-
-
-
-## Favorite GIF
----
