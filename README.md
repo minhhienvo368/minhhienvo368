@@ -4,13 +4,17 @@
 #### Hi there, I am Minh-Hien. 👋 <a name="en"></a>
 #### A Junior Data Scientist based in Gent, Belgium.
 
-- I have a background in information technology, information systems development (my bachelor and master) and education (my phd study). Being working at a multidisciplinary university in Vietnam, starting from a ICT support, web developer, technical assistant of a scientific journal,  post-graduated program adminstrator... I had chances to complete my dream of styding abroad by obtaining two scholarships for my master and Ph.D in the Netherlands and Belgium. After finishing my Ph.D in 2020. I decided to start my journey on AI (Artifical Intelligence), began self-learning code (Python, R) and then I wanted to undertake a more in-depth and serious training. In May, 2021, **#Becode.org** offered me the opportunity to enter into the fascinating world of data sciences via their excellent full-time professional training. During the course, I practiced with the hand-ons projects in both #machine learning and #deep learning techniques.
+I have a background in information technology, information systems development (my bachelor and master) and education (my phd study). Being working at a multidisciplinary university in Vietnam, starting from a ICT support, web developer, technical assistant of a scientific journal,  post-graduated program adminstrator... I had chances to complete my dream of styding abroad by obtaining two scholarships for my master and Ph.D in the Netherlands and Belgium. 
+ 
+After finishing my Ph.D in 2020. I decided to start my journey on AI (Artifical Intelligence), began self-learning code (Python, R) and then I wanted to undertake a more in-depth and serious training. In May 2021, **Becode.org** offered me the opportunity to enter into the fascinating world of data sciences via their excellent full-time professional training. During the course, I practiced with the hand-ons projects in both #machine learning and #deep learning techniques.
 
-- I am currently about to finish my intensive training. And I'm seriously looking for an internship to strengthen my professional skills before getting a full-time job in Data Sciences.
-- My favourite technologies to work with are: #python, #pandas, #matplotlib, #scikit-learn, #plotly, #tensorflow, #NLP.
-- Learning all about **Data Science, Machine learning**
-- You can ask me about **Data manipulation**, **Machine learning model creation**,**NLP**, **Model deployment**, **Web development**
-- Reach me at: [my Gmail](minh.hien.vo68@gmail.com), [my Linkedin](https://www.linkedin.com/in/minh-hien-vo/)
+I am currently about to finish my intensive training. And I'm seriously looking for an internship to strengthen my professional skills before getting a full-time job in Data Sciences.
+My favourite technologies to work with are: #python, #pandas, #matplotlib, #scikit-learn, #plotly, #tensorflow, #NLP.
+Learning all about **Data Science, Machine learning**
+
+You can ask me about **Data manipulation**, **Machine learning model creation**,**NLP**, **Model deployment**, **Web development**
+
+Reach me at: [my Gmail](minh.hien.vo68@gmail.com), [my Linkedin](https://www.linkedin.com/in/minh-hien-vo/)
 
 ### Projects:
 
