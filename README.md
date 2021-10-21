@@ -2,7 +2,7 @@
 
 <img src="assets/quote1.png" width=100% height=50%>
 
-### About myself
+### About me
 #### Hi there, I am Minh-Hien. 👋 <a name="en"></a>
 #### A Junior Data Scientist based in Gent, Belgium.
 
