@@ -14,7 +14,7 @@ Learning all about **Data Science, Machine learning**
 
 You can ask me about **Data manipulation**, **Machine learning model creation**,**NLP**, **Model deployment**, **Web development**
 
-Reach me at: [my email](minh.hien.vo68@gmail.com), [my Linkedin](https://www.linkedin.com/in/minh-hien-vo/), [my Facebook](https://www.facebook.com/andy.bxl/)
+Reach me at: [my Linkedin](https://www.linkedin.com/in/minh-hien-vo/), [my Facebook](https://www.facebook.com/andy.bxl/), [my email] (minh.hien.vo68@gmail.com)
 
 ### Projects:
 
@@ -52,4 +52,4 @@ Reach me at: [my email](minh.hien.vo68@gmail.com), [my Linkedin](https://www.lin
 
 [1]: https://github.com/minhienvo368
 [2]: https://www.linkedin.com/in/minh-hien-vo/
-[3]: 
+[3]: https://www.facebook.com/andy.bxl/
