@@ -1,4 +1,5 @@
 ([EN](aboutme.md#en) / [FR](aboutme.md#fr))
+<img src="assets/quote1.png" width=10% height=10%>
 
 ### About myself
 #### Hi there, I am Minh-Hien. 👋 <a name="en"></a>
