@@ -16,7 +16,7 @@ Learning all about **Data Science, Machine learning**
 
 You can ask me about **Data manipulation**, **Machine learning model creation**,**NLP**, **Model deployment**, **Web development**
 
-Reach me at: minh.hien.vo68@gmail.com, [my Linkedin](https://www.linkedin.com/in/minh-hien-vo/), [my Facebook](https://www.facebook.com/minhhienvo.bxl/)
+Reach me at: minh.hien.vo68@gmail.com, [my Linkedin](https://www.linkedin.com/in/minh-hien-vo/), [my Facebook](https://www.facebook.com/minhhienvo.bxl/), [Twitter] (https://twitter.com/vmhienbrus) 
 
 ### Projects:
 
