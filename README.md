@@ -54,6 +54,7 @@ Reach me at: minh.hien.vo68@gmail.com, [my Linkedin](https://www.linkedin.com/in
 
 [1]: https://github.com/minhienvo368
 [2]: https://www.linkedin.com/in/minh-hien-vo/
-[3]: https://www.facebook.com/andy.bxl/
+[3]: https://www.facebook.com/minhhienvo.bxl/
+[4]: https://twitter.com/vmhienbrus
 
 
