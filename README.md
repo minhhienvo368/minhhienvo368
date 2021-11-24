@@ -11,7 +11,7 @@ I have a background in information technology, information systems development (
 After finishing my Ph.D. in 2020, I decided to start my journey on AI (Artificial Intelligence) with learning how to program with Python and R. Then, I wanted to undertake more in-depth and serious training. In May 2021, **Becode.org** offered me an opportunity to enter  the fascinating world of data sciences via their excellent full-time professional training. During the course, I worked on several hands-on projects in both #machine learning and #deep learning techniques. I've not only learned from  the technical stuff (e.g. committed errors of colleagues and myself from individual and group projects), but also I learned how to succesfully manage a project (MVP, Agile) and presented our product in a professional manner to the clients.
 
 I am currently about to finish my intensive training. And I'm actively looking for an internship to strengthen my professional skills before getting a full-time job in Data Sciences.
-My favourite technologies to work with are: #python, #pandas, #matplotlib, #scikit-learn, #plotly, #tensorflow, #NLP.
+My favourite technologies to work with are: #python, #pandas, #matplotlib, #scikit-learn, #plotly, #tensorflow, #NLP, #computer vision
 Learning all about **Data Science, Machine learning**
 
 You can ask me about **Data manipulation**, **Machine learning model creation**,**NLP**, **Model deployment**, **Web development**
