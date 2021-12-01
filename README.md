@@ -41,10 +41,12 @@ Must have:
 + Be able create a sentiment analysis model.
 + Develop an app to present for the model
 
-**6.Mole detection** - [A computer vision project](https://github.com/minhhienvo368/challenge-mole)
-Mission:
-+ Be able to apply a CNN in a real context
-+ Be able to preprocess data for computer vision
+**6. Mole detection** - [A computer vision project](https://github.com/minhhienvo368/challenge-mole)
+  Mission:
+  + Be able to apply a CNN in a real context
+  + Be able to preprocess data for computer vision
+**7. Using Snorkel to detect CLAs changes** - [a NLP project](https://github.com/minhhienvo368/Laws_changes_notification)
+  The client analyzes hundreds of new collective bargaining agreements (CLA) on an annual basis, in order to interpret practical impact and implement them if necessary.  Due to the high volume (>30 / week) of these extensive documents, this is a time consuming process. The task of collecting and processing these new collective agreements needs to be accelerated and automated, in order to enable proactive notification. Using the available meta-data and Artificial Intelligence (NLP) the relevant information will be extracted from the documents. The client needs this information in a structured way, so integrations with existing platforms and/or new reporting is possible.
 
 ### Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=informational)
