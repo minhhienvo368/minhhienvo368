@@ -30,6 +30,10 @@ Bill de Blasio, mayor of New York City, is in a bit of a pickle. Indeed, his pol
 You're part of a team of sweaty mechanics, working with machines all day. You're not mechanically inclined though, you're hired to make an automated bearing testing system. Your colleagues made the testing machine, you're here to process the data. A client has asked you to make a model to use in an scheduled maintenance system. A sample of the bearings in use of their new-fangled machine would be tested, and your model would predict whether a bearing is **faulty** or not.
 Data source: https://www.kaggle.com/general/244271  (Bearing classification dataset)
 
+[**4. Wine quality prediction** - Building Deep Learning Models in Python With Keras] (https://github.com/minhhienvo368/wine-quality_prediction_deeplearning)
+
+
+
 
 
 ### Technologies & Tools
