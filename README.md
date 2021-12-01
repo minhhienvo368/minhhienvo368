@@ -33,11 +33,19 @@ Data source: https://www.kaggle.com/general/244271  (Bearing classification data
 **4. Wine quality prediction** - [Building Deep Learning Models in Python With Keras](https://github.com/minhhienvo368/wine-quality_prediction_deeplearning)
 The aim of the project is to build a neural network model that can predict the quality of wine (i.e. **good or bad**). Then, improving the model performance by tuning hyperparameters.
 
-**5. NLP Sentiment Analysis** - [Scrape tweets from Twitter ans ](https://github.com/minhhienvo368/challenge-sentiment-analysis)
+**5. NLP Sentiment Analysis** - [Email Sentiment Analysis](https://github.com/minhhienvo368/challenge-sentiment-analysis)
 You just got an internship at Netflix. As a first task, they ask you to analyze people's reaction to their new show "Squid Game" on Twitter. They are only interested in English speaker's reactions. You must scrape at least 10000 tweets in English containing the hashtag #queengambit or select another series or movie.
 Then, you predicted an overall sentiment out of all those tweets.
+Must have: 
++ Be able interact with Twitter's API.
++ Be able create a sentiment analysis model.
++ Develop an app to present for the model
 
-**6. 
+**6.Mole detection** - [A computer vision project](https://github.com/minhhienvo368/challenge-mole)
+Mission:
++ Be able to apply a CNN in a real context
++ Be able to preprocess data for computer vision
+
 ### Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=informational)
