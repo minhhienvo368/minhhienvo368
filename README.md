@@ -18,16 +18,17 @@ You can ask me about **Data manipulation**, **Machine learning model creation**,
 
 Reach me at: minh.hien.vo68@gmail.com, [my Linkedin](https://www.linkedin.com/in/minh-hien-vo/), [my Facebook](https://www.facebook.com/minhhienvo.bxl/), [Twitter](https://twitter.com/vmhienbrus) 
 
-### Projects:
-**1. Immo_eliza_analysis**: [Data analysis challenge]
+### These are some interesting projects, I conducted during the AI bootcamp with Becode:
+**1. Immo_eliza_analysis**: 
 The real estate company "ImmoEliza" wants to establish itself as the biggest one in all of Belgium. To pursue this goal, it needs to create a machine learning model to predict prices on Belgium's sales. That way, they can pick out the properties that are the most valuable to them. The AI team will take initiative to create a model that can predict the price based on the influent variables (location, area, property's type, ...).
 
-**2. NYC Motor Vehicle Crashes ** [Data cleaning challenge]
+**2. NYC Motor Vehicle Crashes** 
 
-Bill de Blasio, mayor of New York City, is in a bit of a pickle. Indeed, his police department, the NYPD, collected information about all the traffic accidents that happened in New York City. However, they are too busy eating doughnuts to correctly encode each traffic incident, and so it happens that the dataset that we got here is quite dirty, has a lot of missing values and can't be used by a machine learning model as is. Can you help Mr. de Blasio and shine a new light on his police department ?
+Bill de Blasio, mayor of New York City, is in a bit of a pickle. Indeed, his police department, the NYPD, collected information about all the traffic accidents that happened in New York City. However, they are too busy eating doughnuts to correctly encode each traffic incident, and so it happens that the dataset that we got here is quite dirty, has a lot of missing values and can't be used by a machine learning model as is. Can you help Mr. de Blasio and shine a new light on his police department ? What he wants exactly is to predict which streets are the most dangerous while visiting the city that never sleeps.
 
-What he wants exactly is to predict which streets are the most dangerous while visiting the city that never sleeps.
-
+**3. Make an automated bearing testing system**
+You're part of a team of sweaty mechanics, working with machines all day. You're not mechanically inclined though, you're hired to make an automated bearing testing system. Your colleagues made the testing machine, you're here to process the data. A client has asked you to make a model to use in an scheduled maintenance system. A sample of the bearings in use of their new-fangled machine would be tested, and your model would predict whether a bearing is **faulty** or not.
+Data source: https://www.kaggle.com/general/244271  (Bearing classification dataset)
 
 
 
