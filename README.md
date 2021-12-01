@@ -42,6 +42,7 @@ Must have:
 + Develop an app to present for the model
 
 **6. Mole detection** - [A computer vision project](https://github.com/minhhienvo368/challenge-mole)
+  
   Mission:
   + Be able to apply a CNN in a real context
   + Be able to preprocess data for computer vision
