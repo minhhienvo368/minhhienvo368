@@ -19,7 +19,7 @@ Results-driven Data Scientist with experience at Moody’s Analytics (since 2021
 My favourite technologies to work with are: #python, #pandas, #matplotlib, #scikit-learn, #plotly, #tensorflow, #NLP, #computer vision
 Learning all about **Data Science, Machine learning**
 
-You can ask me about **Data manipulation**, **Machine learning model creation**,**NLP**, **Model deployment**, **Web development**
+I'm happy to discuss technical details, best practices, or real-world applications in these areas: Data processing & transformation; Building and optimizing machine learning models; Natural Language Processing (NLP) techniques; Deploying models into production
 
 Reach me at: andyvo.bxl@gmail.com, [my Linkedin](https://www.linkedin.com/in/andyvo-bxl/), [my Facebook](https://www.facebook.com/minhhienvo.bxl/) 
 
