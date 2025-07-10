@@ -4,7 +4,7 @@
 
 ### About me
 #### Hi there, I am Minh-Hien. 👋 <a name="en"></a>
-#### A Junior Data Scientist based in Gent, Belgium.
+#### A  Data Scientist based in Brussels, Belgium.
 
 I have a background in information technology, information systems development (i.e. bachelor and master diplomas), and education. I started my job as an ICT assistant, web developer at the Academic Affairs Dept, then a technical assistant of the university scientific journal (@Scientific Support Unit), and a post-graduate program administrator (@Graduated School) at a multidisciplinary university in Vietnam. I have sustantial experience in managing the data of undergraduate and graduate students and developing the university management systems. I had the chance to complete my dream of studying abroad by obtaining a scholarship for my master's in the Netherlands and the a Ph.D. Belgium.
 
