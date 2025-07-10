@@ -8,9 +8,11 @@
 
 I have a background in information technology, information systems development (i.e. bachelor and master diplomas), and education. I started my job as an ICT assistant, web developer at the Academic Affairs Dept, then a technical assistant of the university scientific journal (@Scientific Support Unit), and a post-graduate program administrator (@Graduated School) at a multidisciplinary university in Vietnam. I have sustantial experience in managing the data of undergraduate and graduate students and developing the university management systems. I had the chance to complete my dream of studying abroad by obtaining a scholarship for my master's in the Netherlands and the a Ph.D. Belgium.
 
-After finishing my Ph.D. in 2020, I decided to start my journey on AI (Artificial Intelligence) with learning how to program with Python and R. Then, I wanted to undertake more in-depth and serious training. In May 2021, **Becode.org** offered me an opportunity to enter  the fascinating world of data sciences via their excellent full-time professional training. During the course, I worked on several hands-on projects in both #machine learning and #deep learning techniques. I've not only learned from  the technical stuff (e.g. committed errors of colleagues and myself from individual and group projects), but also I learned how to succesfully manage a project (MVP, Agile) and presented our product in a professional manner to the clients.
+After earning my Ph.D. in 2020, I transitioned into the field of Artificial Intelligence, starting with self-directed learning in Python and R. My growing passion for AI led me to pursue a more structured and immersive training experience. In May 2021, I was selected to join BeCode.org’s intensive full-time AI & Machine Learning Operator bootcamp in Ghent, Belgium.
 
-I successfully completed an intensive AI and Machine Learning Operator bootcamp with BeCode from May to December 2021, held in Ghent, Belgium.
+Throughout the program, I engaged in a series of hands-on projects focused on both machine learning and deep learning. These projects not only strengthened my technical expertise but also honed my problem-solving, collaboration, and communication skills. I gained practical experience working in Agile environments, developing MVPs, and presenting project outcomes to real-world clients.
+
+Successfully completing the bootcamp in December 2021 marked a key milestone in my transition to AI, equipping me with both the technical and soft skills needed to contribute meaningfully in data-driven roles.
 
 Results-driven Data Scientist with experience at Moody’s Analytics (since 2021), specializing in financial data analysis, automation, and AI-driven optimization. Led high-impact projects involving stock market trend analysis, financial data reconciliation, and process automation, enabling data-driven decision-making for publicly listed companies.
 
@@ -19,7 +21,7 @@ Learning all about **Data Science, Machine learning**
 
 You can ask me about **Data manipulation**, **Machine learning model creation**,**NLP**, **Model deployment**, **Web development**
 
-Reach me at: minh.hien.vo68@gmail.com, [my Linkedin](https://www.linkedin.com/in/minh-hien-vo/), [my Facebook](https://www.facebook.com/minhhienvo.bxl/), [Twitter](https://twitter.com/vmhienbrus) 
+Reach me at: andyvo.bxl@gmail.com, [my Linkedin](https://www.linkedin.com/in/andyvo-bxl/), [my Facebook](https://www.facebook.com/minhhienvo.bxl/) 
 
 ### These are some interesting projects, I conducted during the AI bootcamp with Becode:
 **1. Immo_eliza_analysis**: 
@@ -87,8 +89,8 @@ Must have:
 <!-- links to your social media accounts -->
 
 [1]: https://github.com/minhienvo368
-[2]: [https://www.linkedin.com/in/minh-hien-vo/](https://www.linkedin.com/in/andyvo-bxl/)
+[2]: https://www.linkedin.com/in/andyvo-bxl/
 [3]: https://www.facebook.com/minhhienvo.bxl/
-[4]: https://twitter.com/vmhienbrus
+
 
 
