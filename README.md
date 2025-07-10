@@ -1,4 +1,4 @@
-([EN](README.md#en) / [FR](README.md#fr))
+([EN](README.md#en) / [FR](readme_fr.md))
 
 <img src="assets/quote1.png" width=100% height=50%>
 
