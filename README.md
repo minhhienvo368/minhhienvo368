@@ -1,4 +1,4 @@
-([EN](aboutme.md#en) / [FR](aboutme.md#fr))
+([EN](README.md#en) / [FR](README.md#fr))
 
 <img src="assets/quote1.png" width=100% height=50%>
 
@@ -87,7 +87,7 @@ Must have:
 <!-- links to your social media accounts -->
 
 [1]: https://github.com/minhienvo368
-[2]: https://www.linkedin.com/in/minh-hien-vo/
+[2]: [https://www.linkedin.com/in/minh-hien-vo/](https://www.linkedin.com/in/andyvo-bxl/)
 [3]: https://www.facebook.com/minhhienvo.bxl/
 [4]: https://twitter.com/vmhienbrus
 
